@@ -47,6 +47,20 @@ color:#800000;
 
 
 }
+#hiremeto a{
+  transition: all 0.2s ease-in-out;
+  font-family: 'Staatliches', cursive;
+  color: #bd1816;
+  cursor: none;
+  text-decoration: none;
+}
+#hiremeto a:hover{
+  color: white;
+  cursor: none;
+
+}
+
+
 #hiremetwo a{
   color:#800000; ;
  text-decoration: none;
@@ -98,4 +112,14 @@ footer{
 
   background-color:  #800000;
 
+}
+
+.modifyone:hover{
+  cursor: none;
+  transition: all 0.5s ease-in-out;
+  color:white;;
+}
+.modifytwo{
+  font-family: 'Staatliches', cursive;
+  color:#bd1816;
 }

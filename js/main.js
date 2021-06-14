@@ -35,7 +35,7 @@
                 const group = new THREE.Group();
                 const typoLoader = new THREE.FontLoader();
                 const createTypo = font => {
-                    const word = `Hire Me
+                    const word = `Yashasvi Goswami
                                 
                     
                     `;
